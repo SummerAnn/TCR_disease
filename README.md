@@ -70,9 +70,7 @@ In conclusion, our study demonstrates that a deep learning pipeline integrating 
 
 Looking ahead, future work should focus on enhanced data processing by incorporating additional immunogenomic features and metadata, as well as on expanding validation using external datasets and rigorous cross-validation techniques. Refinements to the model architecture, such as exploring deeper transformers or hybrid approaches and experimenting with advanced loss functions, will be essential to improve performance, especially for cancer and healthy TCRs. Additionally, aligning model predictions with biological experiments and established literature will be critical for translating our computational findings into clinically actionable insights. Through these improvements, we aim to further unravel the complex language of T cell receptors and advance the development of precise immune biomarkers.
 
-## References
-\nocite{*}
-\printbibliography
+
 
 ## Appendix
 
